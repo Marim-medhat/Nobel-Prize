@@ -10,6 +10,11 @@
 
 >The datase: https://www.kaggle.com/bahramjannesarr/nobel-prize-from-1901-till-2020
 
+## Technologies:
+* dash_bootstrap_components
+* Python
+* Plotly
+* Dash
 
 
 ## Summary of Findings
@@ -19,10 +24,4 @@
 > Many young ladies have won the Nobel Prize in peace before the age of thirty-five.
 
 
-
-
-## Key Insights for Presentation
-
->For the presentation, I focus on the women, ages and category.
-I start with present the distribution of the ages then i viewd how many woemn and men win then i viewd how many people win in each category
-then the distribution of Nobel Prize by country.
+![image](https://user-images.githubusercontent.com/36182751/166469726-1b73df0d-bd15-4872-b93c-e6021fa8169d.png)
