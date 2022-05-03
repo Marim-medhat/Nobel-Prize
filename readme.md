@@ -1,6 +1,4 @@
 # Communicate Data Findings:Nobel Prize
-## by Mariam Medhat
-
 
 ## Nobel Prize
 
@@ -28,3 +26,6 @@
 
 ![image](https://user-images.githubusercontent.com/36182751/166472696-becb3872-e5f9-461b-9768-7216706c4bed.png)
 ![image](https://user-images.githubusercontent.com/36182751/166473244-6f5ea6c9-d75f-4218-94c4-cdddd59fd7fe.png)
+
+
+by Mariam Medhat
