@@ -23,5 +23,5 @@
 > That a very small percentage of women won the Nobel Prize.
 > Many young ladies have won the Nobel Prize in peace before the age of thirty-five.
 
-
-![image](https://user-images.githubusercontent.com/36182751/166469726-1b73df0d-bd15-4872-b93c-e6021fa8169d.png)
+## dash
+![image](https://user-images.githubusercontent.com/36182751/166470204-2188e64e-b1eb-471c-9dec-abf39cb70656.png)
